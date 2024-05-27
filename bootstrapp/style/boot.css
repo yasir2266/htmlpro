@@ -1,0 +1,12 @@
+.card-group{
+    
+}
+.card{
+    margin-right: 20px;
+}
+.yasir{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    
+}

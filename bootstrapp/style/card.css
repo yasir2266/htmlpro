@@ -1,0 +1,12 @@
+body{
+    background: rgb(17,204,252);
+background: radial-gradient(circle, rgba(17,204,252,1) 10%, rgba(0,91,233,1) 18%, rgba(190,130,10,1) 45%, rgba(255,0,104,1) 87%);
+.card-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin-left: 25px;
+    margin-right: 25px;
+}
